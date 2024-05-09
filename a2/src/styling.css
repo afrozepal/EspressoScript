@@ -1,0 +1,22 @@
+.bodyclass {
+    background-image: url('./Component/bgpic.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    overflow-y: hidden;
+  }
+
+  .tableset{
+    width:'80%' ;
+    margin:'auto'
+  }
+  
+  .table-striped-custom tbody tr:nth-of-type(odd) {
+    background-color: white;
+  }
+
+  .theadline {
+    border-bottom: 2px solid orange;
+  }
+  
